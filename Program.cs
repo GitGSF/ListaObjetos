@@ -7,18 +7,19 @@ namespace ListaObjetos
         static void Main(string[] args)
         {
             //criar lista
-            List<VideoGames> videoGames = new List<VideoGames>();
+            List<Cartao> Cartoes = new List<Cartao>();
 
             //Novos Produtos
-            videoGames.Add(new VideoGames(1, "PS5",2680.00f));
-            videoGames.Add(new VideoGames(2, "Xbox One X",2250.00f));
-            videoGames.Add(new VideoGames(3, "Nintendo Switch",2000.00f));
-            videoGames.Add(new VideoGames(4, "PS4",1800.00f));
-            videoGames.Add(new VideoGames(5, "Xbox 360",600.00f));
+            Cartoes.Add(new Cartao("Gabriel",12345678,"Brasil",2021,971));
+            Cartoes.Add(new Cartao("Gabriel2",83748763,"Canadá",2022,860));
+            Cartoes.Add(new Cartao("Gabriel3",97243781,"EUA",2023,481));
+            Cartoes.Add(new Cartao("Gabriel4",92690171,"Itália",2024,991));
+            Cartoes.Add(new Cartao("Gabriel5",98765432,"China",2025,389));
 
-            //Mostrar Produto
-            foreach(VideoGames p in videoGames){
-                System.Console.WriteLine($" {p.Nome} - R${p.Preco}");
+            //Mostrar Cartões
+               foreach(Cartao p in Cartoes){
+                System.Console.WriteLine($"{p.Titular} - {p.Numero} - {p.Bandeira} - {p.Vencimento} - {p.CVV}");
+            
             }
         }
     }
