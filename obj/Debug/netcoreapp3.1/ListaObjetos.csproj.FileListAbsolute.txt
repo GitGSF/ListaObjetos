@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.exe
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.deps.json
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.dll
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\bin\Debug\netcoreapp3.1\ListaObjetos.pdb
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.dll
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.pdb
+C:\Users\Dark_Cheedar\Desktop\ListaObjetos\obj\Debug\netcoreapp3.1\ListaObjetos.genruntimeconfig.cache
